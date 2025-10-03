@@ -5,6 +5,10 @@
 - 💻 興味: Web開発, AI, データベース
 - 🌱 学習中: React, Node.js, TypeScript
 
+- - ## ・ Projects
+- [Attendance Manager]((https://github.com/std-s23007/PBL_C/tree/s24008))  
+  先輩方と生徒向けの出欠管理アプリを作成。
+
 
 ## ・ GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=itc-s24008&show_icons=true&theme=tokyonight)

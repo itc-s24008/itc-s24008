@@ -5,7 +5,7 @@
 - 💻 興味: Web開発, AI, データベース
 - 🌱 学習中: React, Node.js, TypeScript
 
-## Projects
+## ・ Projects
 
 - [PBL_C (s24008 branch)](https://github.com/std-s23007/PBL_C/tree/s24008)  
   チーム開発で取り組んだ PBL のプロジェクト。  

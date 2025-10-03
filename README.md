@@ -5,6 +5,15 @@
 - 💻 興味: Web開発, AI, データベース
 - 🌱 学習中: React, Node.js, TypeScript
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=itc-s24008&show_icons=true&theme=tokyonight)
+
+## 🔥 Streak
+![GitHub Streak](https://streak-stats.demolab.com/?user=itc-s24008&theme=tokyonight)
+
+## 📈 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itc-s24008&layout=compact&theme=tokyonight)
+
+## 👀 Visitors
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=itc-s24008.itc-s24008)

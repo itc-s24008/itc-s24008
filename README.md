@@ -5,9 +5,15 @@
 - 💻 興味: Web開発, AI, データベース
 - 🌱 学習中: React, Node.js, TypeScript
 
-- - ## ・ Projects
-- [Attendance Manager]((https://github.com/std-s23007/PBL_C/tree/s24008))  
-  先輩方と生徒向けの出欠管理アプリを作成。
+## Projects
+
+- [PBL_C (s24008 branch)](https://github.com/std-s23007/PBL_C/tree/s24008)  
+  チーム開発で取り組んだ PBL のプロジェクト。  
+  - **担当:** フロントエンド開発（HTML / CSS / JavaScript / React）  
+  - **内容:** 出欠管理アプリのユーザー画面を設計・実装  
+  - **工夫:** UI/UX 改善のため、レスポンシブデザインや入力フォームのバリデーションを実装  
+  - **学んだこと:** GitHub を使ったチーム開発フロー（ブランチ運用・レビュー対応）、フロントとバックエンドの連携
+
 
 
 ## ・ GitHub Stats

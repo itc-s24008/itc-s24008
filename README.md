@@ -26,3 +26,10 @@
 
 ## ・ Visitors
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=itc-s24008.itc-s24008)
+
+## ・ Contact
+
+[![Email](https://img.shields.io/badge/Email-s24008%40std.it--college.ac.jp-blue?logo=gmail&logoColor=white)](mailto:s24008@std.it-college.ac.jp)
+[![Instagram](https://img.shields.io/badge/Instagram-@your_account-E4405F?logo=instagram&logoColor=white)](https://instagram.com/your_account)
+[![Slack](https://img.shields.io/badge/Slack-Contact_me-4A154B?logo=slack&logoColor=white)](https://join.slack.com/t/yourworkspace/shared_invite/xxxxx)
+

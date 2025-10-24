@@ -1,9 +1,9 @@
 ## Hi I'm 金城　創大。
 
 ## ・ About me
-- 🎓 学生 / エンジニア志望
-- 💻 興味: Web開発, AI, データベース
-- 🌱 学習中: React, Node.js, TypeScript
+-  学生 / エンジニア志望
+-  興味: Web開発, AI, データベース
+-  学習中: React, Node.js, TypeScript
 
 ## ・ Projects
 
@@ -35,5 +35,63 @@
 
 [![Email](https://img.shields.io/badge/Email-s24008%40std.it--college.ac.jp-blue?logo=gmail&logoColor=white)](mailto:s24008@std.it-college.ac.jp)
 [![Instagram](https://img.shields.io/badge/Instagram-@soudai476-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/soudai476/)
+
+#  出欠管理アプリ (PBL_C)
+
+###  プロジェクト概要
+チーム開発で制作した **出欠管理アプリ** です。  
+学生が授業の出席・欠席を記録し、管理者が全体の出欠状況を確認できるシステムです。  
+私は **フロントエンド開発**（ユーザー画面の設計・実装）を担当しました。
+
+このプロジェクトを通して、**チームでのGit運用** や **フロントとバックエンドの連携** の難しさ・重要性を学びました。
+
+---
+
+###  主な機能
+- ログイン・ログアウト機能  
+- カレンダーによる出欠管理  
+- 欠席理由の登録・編集  
+- 管理者画面での出欠状況一覧表示  
+
+---
+
+###  使用技術
+| カテゴリ | 使用技術 |
+|-----------|-----------|
+| フロントエンド | HTML / CSS / JavaScript / React |
+| バックエンド | Node.js / Express |
+| データベース | MySQL |
+| 環境構築 | Docker / GitHub |
+| デプロイ | Vercel（フロントエンド） |
+
+---
+
+###  開発環境セットアップ
+
+### ① リポジトリをクローン
+
+git clone https://github.com/itc-s24008/PBL_C.git
+cd PBL_C
+
+### ② Dockerで起動
+docker compose up -d
+
+### ③ フロントエンド起動
+cd frontend
+npm install
+npm run dev
+
+### ④ バックエンド起動
+cd backend
+npm install
+npm start
+
+###  学んだこと
+- GitHubによるチーム開発（ブランチ運用・レビュー対応）
+- Reactを用いたSPA開発
+- フロントとバックエンドのAPI連携
+- Dockerを使った開発環境の統一
+
+
 
 

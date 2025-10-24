@@ -14,7 +14,11 @@
   - **学んだこと:** GitHub を使ったチーム開発の難しさ(ブランチ運用・レビュー対応）、フロントエンドとバックエンドの連携
 
 
+  - **内容:** Next.js を用いたニュースサイトアプリの開発。外部 API（microCMS）から記事データを取得し、カテゴリ別にニュースを表示する機能を実装。
+  - **使用技術:** Next.js / TypeScript / Tailwind CSS / microCMS / Vercel
+  - **学んだこと:** API連携の実践、ISR（Incremental Static Regeneration）による高速なページ生成、Vercelを使ったデプロイの流れ
 
+- [my-next-project2 (main branch)](https://github.com/itc-s24008/my-next-project2)
 ## ・ GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=itc-s24008&show_icons=true&theme=tokyonight)
 

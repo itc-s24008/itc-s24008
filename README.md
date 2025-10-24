@@ -71,7 +71,6 @@
 ### ① リポジトリをクローン
 
 git clone https://github.com/itc-s24008/PBL_C.git
-cd PBL_C
 
 ### ② Dockerで起動
 docker compose up -d

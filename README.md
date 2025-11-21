@@ -6,8 +6,8 @@
 -  学習中: React, Node.js, TypeScript
 
 ## ・ Certifications
--　CompTIA ITF+
--　.com Master BASIC
+-  CompTIA ITF+
+-  .com Master BASIC
 
 ## ・ Projects
 

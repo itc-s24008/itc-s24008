@@ -5,6 +5,10 @@
 -  興味: Web開発, AI, データベース
 -  学習中: React, Node.js, TypeScript
 
+## ・ Certifications
+-　CompTIA ITF+
+-　.com Master BASIC
+
 ## ・ Projects
 
 - [PBL_C (s24008 branch)](https://github.com/std-s23007/PBL_C/tree/s24008)  
@@ -18,6 +22,11 @@
   - **内容:** Next.js を用いたニュースサイトアプリの開発。外部 API（microCMS）から記事データを取得し、カテゴリ別にニュースを表示する機能を実装。
   - **使用技術:** Next.js / TypeScript / Tailwind CSS / microCMS / Vercel
   - **学んだこと:** API連携の実践、Vercelを使ったデプロイの流れ
+ 
+  - [recipe-shere (main branch)](https://github.com/itc-s24008/recipe-share)
+    一人で頑張って作った
+  - **内容:** ユーザーがレシピを投稿・編集・閲覧できる。
+  - **学んだこと:** フロントエンドとバックエンドの連携、状態管理、UI/UX設計、GitHub を使ったバージョン管理
 
 ## ・ GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=itc-s24008&show_icons=true&theme=tokyonight)

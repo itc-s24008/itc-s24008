@@ -24,8 +24,8 @@
   - **学んだこと:** API連携の実践、Vercelを使ったデプロイの流れ
  
 - [recipe-shere (main branch)](https://github.com/itc-s24008/recipe-share)
-  一人で頑張って作った
   - **内容:** ユーザーがレシピを投稿・編集・閲覧できる。
+  - **使用技術** Next.js / microCMS / Vercel / github
   - **学んだこと:** フロントエンドとバックエンドの連携、状態管理、UI/UX設計、GitHub を使ったバージョン管理
 
 ## ・ GitHub Stats

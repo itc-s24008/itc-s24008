@@ -25,8 +25,13 @@
  
 - [recipe-shere (main branch)](https://github.com/itc-s24008/recipe-share)
   - **内容:** ユーザーがレシピを投稿・編集・閲覧できる。
-  - **使用技術** Next.js / microCMS / Vercel / github
+  - **使用技術:** Next.js / microCMS / Vercel / github
   - **学んだこと:** フロントエンドとバックエンドの連携、状態管理、UI/UX設計、GitHub を使ったバージョン管理
+
+- [baseball (main branch)](https://github.com/itc-s24008/baseball)
+  - **内容:** プロ野球（NPB）の試合スケジュール・試合結果・順位表を、「一目で分かる試合情報表示」を重視した設計とした。
+  - **使用技術:** Next.js（App Router） / TypeScript / Tailwind CSS /Cheerio（スクレイピング） / Node.js（API Routes） / Vercel
+  - **学んだこと**スクレイピングとキャッシュを組み合わせたデータ取得設計、API Routesを用いたフロントエンドとサーバー処理の一体化、CDN・キャッシュによる表示速度最適化の考え方、ダークモードやチームフィルター
 
 ## ・ GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=itc-s24008&show_icons=true&theme=tokyonight)
